@@ -7,4 +7,6 @@ Please note that some large model platforms may require top-up before use, to av
 
 Replace the file paths in main.py with your own.
 
+Replace the model in main.py with the large model you want to test.
+
 Since some of the test questions are subject to copyright, we are unable to make them public. This evaluation code only provides example tests to help you understand the approach to long-text sentiment analysis evaluation.
