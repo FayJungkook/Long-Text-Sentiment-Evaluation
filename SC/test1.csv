@@ -1,0 +1,15 @@
+Speaker,Test_Sentence,Gold_Label,Season,Episode
+Ross,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",anger,1,4
+Chandler,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",neutral,1,4
+Ross,Pass it! Pass it!,joy,1,4
+Chandler,He's open!,joy,1,4
+All,Shoot! Shoot! Shoot!,joy,1,4
+Phoebe,"Oh, hi Max! Hey, do you know everybody?",neutral,1,10
+Max,No. Have you seen David?,neutral,1,10
+Phoebe,"No, no, he hasn't been around.",neutral,1,10
+Max,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral,1,10
+Max,Minsk. It's in Russia.,neutral,1,10
+Phoebe,I know where Minsk is.,neutral,1,10
+Max,"We got the grant. Three years, all expenses paid.",joy,1,10
+Phoebe,"So when, when do you leave?",neutral,1,10
+Max,January first,neutral,1,10
