@@ -1,4 +1,4 @@
-# Long-text-emotion-evaluation
+# Long-text-Sentiment-Evaluation
 We provide a way to evaluate LLMs' ability of long-text sentiment analysis
 
 First, you need to replace all the API keys in the LLMS.py file with your own. If you want to test other large models, please add the API interfaces in LLMS.py yourself.
